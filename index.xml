@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mi primera pagina con HUGO</title>
+    <link>http://miprimerapaginaconhugo.org/</link>
+    <description>Recent content on Mi primera pagina con HUGO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language><atom:link href="http://miprimerapaginaconhugo.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nosotros</title>
+      <link>http://miprimerapaginaconhugo.org/nosotros/</link>
+      <pubDate>Tue, 20 Dec 2022 09:18:16 +0100</pubDate>
+      
+      <guid>http://miprimerapaginaconhugo.org/nosotros/</guid>
+      <description>Esta es mi primera pagina aprendiendo a usar HUGO</description>
+      
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>http://miprimerapaginaconhugo.org/contacto/</link>
+      <pubDate>Tue, 02 Jun 2020 01:26:56 +0200</pubDate>
+      
+      <guid>http://miprimerapaginaconhugo.org/contacto/</guid>
+      <description>Este es el contacto con los administradores del sitio web.
+correo@correo.com 123455728 @hugo </description>
+      
+    </item>
+    
+  </channel>
+</rss>
